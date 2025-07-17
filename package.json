@@ -2,7 +2,7 @@
   "name": "spidr-airfryer-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<your-github-username>.github.io/spidr-airfryer-form",
+  "homepage": "https://Sthyarala.github.io/spidr-airfryer-form",
   "dependencies": {
     "gh-pages": "^6.3.0",
     "react": "^19.1.0",
