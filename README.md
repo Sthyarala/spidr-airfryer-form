@@ -24,3 +24,4 @@ Clone the repository and install dependencies:
 git clone https://github.com/Sthyarala/spidr-airfryer-form.git
 cd spidr-airfryer-form
 npm install
+npm start
