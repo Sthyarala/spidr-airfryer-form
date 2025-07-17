@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spidr-airfryer-form/static/css/main.d4c30a5b.css",
+    "main.js": "/spidr-airfryer-form/static/js/main.4f18e627.js",
+    "index.html": "/spidr-airfryer-form/index.html",
+    "main.d4c30a5b.css.map": "/spidr-airfryer-form/static/css/main.d4c30a5b.css.map",
+    "main.4f18e627.js.map": "/spidr-airfryer-form/static/js/main.4f18e627.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4c30a5b.css",
+    "static/js/main.4f18e627.js"
+  ]
+}
