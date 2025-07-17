@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: url('https://images.unsplash.com/photo-1596387683127-0a289fdf56b4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8')
+    center/cover no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Inter, system-ui, sans-serif;
+}
+
